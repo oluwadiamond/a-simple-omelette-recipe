@@ -1,0 +1,127 @@
+@font-face {
+  font-family: YoungSerif;
+  src: url(../tony-project-for-me/YoungSerif-Regular.ttf);
+}
+
+@font-face {
+  font-family: Outfit;
+  src: url(../tony-project-for-me/Outfit-Regular.ttf);
+}
+
+@font-face {
+  font-family: Outfit-bold;
+  src: url(../tony-project-for-me/Outfit-Bold.ttf);
+}
+
+body {
+  background-color: white;
+  color: #a52a2a;
+  padding-left: 30px;
+  padding-bottom: 0px;
+  font-size: 30px;
+  line-height: 1.45;
+  font-family: Outfit, serif;
+  
+ }
+
+.image-omelette {
+  object-fit: contain;
+  padding-top: 27px;
+  border-radius: 27px;
+  min-width: 30%;
+}
+.instruction {
+  background-color: white;
+  border-top: 1px brown solid;
+  border-bottom: 1px brown solid; 
+  font-size: 30px;
+  line-height: 1.5;
+  width: 93%;
+  padding-right: 30.5px;
+  font-family: Outfit, serif;
+  border-collapse: collapse;
+}
+.amount {
+  margin-left: 30px;
+}
+.prep-time {
+  font-size: 30px;
+  background-color: rgb(243, 249, 255);
+  color: #6b1f1f;
+  padding-left: 20px;
+  width: 93%;
+  line-height: 1.5;
+  font-family: Outfit, serif;
+  border-radius: 10px;
+  padding-bottom: 4px;
+}
+strong {
+  color: #801515;
+  padding-left: 25px;
+}
+span {
+  font-weight: bold;
+  color: #6b1f1f;
+}
+
+.class-of-food {
+  margin-right: 1000px;
+  font-weight: lighter;
+}
+.table {
+  margin-bottom: 2px;
+}
+.p1{
+  background-color: white;
+  color: #a52a2a;
+  margin-top: 8px;
+  padding-left: 20px;
+  font-size: 30px;
+  line-height: 1.45;
+  font-family: Outfit, serif;
+}
+
+h1{
+  margin-bottom: 0px;
+  font-family: YoungSerif, sans-serif;
+  color: black;
+}
+h2{
+  margin-bottom: 0px;
+  font-family: YoungSerif, sans-serif;
+}
+h3{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 32px;
+  line-height: 30px;
+  font-family: Outfit, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  padding-left: 10px;
+  padding-top: 10px;
+}
+ul{
+  margin-top: 10;
+}
+li{
+  margin-top: 8px;
+  padding-left: 20px;
+}
+table, th, td{
+  border: 1px;
+}
+
+table{
+  width: 92%;
+  border-collapse: collapse;
+  margin-left: 60px;
+  line-height: 2;
+}
+
+tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.values{
+  font-weight: 700;
+}
