@@ -1,11 +1,11 @@
 @font-face {
   font-family: YoungSerif;
-  src: url(../tony-project-for-me/YoungSerif-Regular.ttf);
+  src: url(font/YoungSerif-Regular.ttf);
 }
 
 @font-face {
   font-family: Outfit;
-  src: url(../tony-project-for-me/Outfit-Regular.ttf);
+  src: url(font/Outfit-Regular.ttf);
 }
 
 @font-face {
